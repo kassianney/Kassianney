@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Maria Eduarda Kassianney 👋
 
-- 🔭 Pretendo trabalhar com back-end
+- 🔭  Desenvolvedora back-end junior
 - 🌱 Atualmente estou estudando PHP
 
 <div align="center">
